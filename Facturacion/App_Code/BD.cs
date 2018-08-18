@@ -16,6 +16,8 @@ public class BD
     {
         dbConn.Close();
         dbConn.ConnectionString = "server=localhost;database=sistematrasvase_bd;uid=root;password=";
+        ////Asdfasdfasdf
+
     }
 
     public static List<string> SeleccionDatos(int id)// Metodo encargado de extraer los datos de la base de datos y almacenarlo en una lista.

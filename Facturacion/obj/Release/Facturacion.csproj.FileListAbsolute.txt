@@ -1,0 +1,15 @@
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\Facturacion.exe.config
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\Facturacion.exe
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\Facturacion.pdb
+C:\Users\dadan\Desktop\Facturacion\Facturacion\obj\Release\Facturacion.ProjectInstaller.resources
+C:\Users\dadan\Desktop\Facturacion\Facturacion\obj\Release\Facturacion.Facturacion.resources
+C:\Users\dadan\Desktop\Facturacion\Facturacion\obj\Release\Facturacion.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Facturacion\Facturacion\obj\Release\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Facturacion\Facturacion\obj\Release\Facturacion.exe
+C:\Users\dadan\Desktop\Facturacion\Facturacion\obj\Release\Facturacion.pdb
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\MySql.Data.dll
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\RestSharp.dll
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\MySql.Data.xml
+C:\Users\dadan\Desktop\Facturacion\Facturacion\bin\Release\Newtonsoft.Json.xml
+C:\Users\dadan\Desktop\Facturacion\Facturacion\obj\Release\Facturacion.csproj.CopyComplete

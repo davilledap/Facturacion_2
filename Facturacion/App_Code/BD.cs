@@ -11,6 +11,7 @@ using System.Data;
 =======
 //Ultima prueba Fanny
 >>>>>>> Stashed changes
+//jjj
 public class BD
 {
     public static MySqlConnection dbConn = new MySqlConnection();

@@ -12,11 +12,18 @@ using System.Data;
 //Ultima prueba Fanny
 >>>>>>> Stashed changes
 //jjj
+<<<<<<< HEAD
 //12:46 cambio
 
     //****
 
 
+=======
+//4545454
+//56565565
+//45454
+//5444545
+>>>>>>> master
 public class BD
 {
     public static MySqlConnection dbConn = new MySqlConnection();

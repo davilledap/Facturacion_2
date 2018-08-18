@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 
-
+//....dd
 public class BD
 {
     public static MySqlConnection dbConn = new MySqlConnection();

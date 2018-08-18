@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 
+<<<<<<< Updated upstream
 //....dd
+=======
+//Ultima prueba Fanny
+>>>>>>> Stashed changes
 public class BD
 {
     public static MySqlConnection dbConn = new MySqlConnection();
